@@ -2,6 +2,26 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Tue, 10 May 2022 16:48:22 GMT",
+      "tag": "@azure/msal-browser_v2.24.0",
+      "version": "2.24.0",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "db858a9ef01e9fb4022da75dcdc8f28713099d89",
+            "comment": "Fix failing unit tests #4783"
+          },
+          {
+            "author": "brianmel@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "79d96ca89542170be24d22dc6750d3f20783dd35"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 02 May 2022 22:23:33 GMT",
       "tag": "@azure/msal-browser_v2.24.0",
       "version": "2.24.0",
